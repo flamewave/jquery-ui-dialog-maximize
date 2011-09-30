@@ -1,0 +1,23 @@
+﻿/*!
+* jQuery UI Dialog Maximize Extension v1.1
+*
+* Copyright 2011, Tony Kramer
+* Dual licensed under the MIT or GPL Version 2 licenses.
+* https://github.com/flamewave/jquery-ui-dialog-maximize/raw/master/GPL-LICENSE.txt
+* https://github.com/flamewave/jquery-ui-dialog-maximize/raw/master/MIT-LICENSE.txt
+*/
+.ui-dialog .ui-dialog-titlebar-maximize
+{
+    position: absolute;
+    right: 1.6em;
+    top: 50%;
+    width: 19px;
+    margin: -10px 0 0 0;
+    padding: 1px;
+    height: 18px;
+}
+.ui-dialog .ui-dialog-titlebar-maximize span
+{
+    display: block;
+    margin: 1px;
+}

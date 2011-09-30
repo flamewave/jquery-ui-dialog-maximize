@@ -1,0 +1,6 @@
+Version 1.0 - March 18 2011
+ - Initial version.
+
+Version 1.1 - July 28, 2011
+ - Added the $.ui.dialog.maximizeExtension object.
+ - Added support for the globalization object.
